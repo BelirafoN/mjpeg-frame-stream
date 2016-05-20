@@ -1,0 +1,29 @@
+{
+  "name": "mjpeg-frame-stream",
+  "version": "0.0.1",
+  "description": "MJPEG frame streang for NodeJS",
+  "main": "./lib/MjpegFrameStream.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {},
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BelirafoN/mjpeg-frame-stream.git"
+  },
+  "keywords": [
+    "mjpef",
+    "jpeg",
+    "frame"
+  ],
+  "author": {
+    "name": "Alex Voronysnaky",
+    "email": "belirafon@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
